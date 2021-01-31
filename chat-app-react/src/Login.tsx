@@ -1,5 +1,4 @@
 import React, {useState} from 'react';
-import './App.css';
 import axios, {AxiosRequestConfig} from 'axios';
 import {AccountDetailsModel} from './models/AccountDetails.model';
 
